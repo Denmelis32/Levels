@@ -1,0 +1,58 @@
+.File{
+    
+    
+}
+
+.FileText{
+    h2{
+    text-align: center;     
+    }
+    p{
+    margin-right: 10%;
+    margin-left: 10%;
+    }
+}
+.ps{
+  margin:auto;
+  margin-top: 2%;
+  margin-left: 20%;
+  margin-right: 20%;
+  margin-bottom: 2%;
+}
+.FileTable{
+  background: cornflowerblue;
+  text-align: center;  
+}
+table {
+  margin:auto;
+  height: 50%;
+  width: 60%;
+  table-layout: fixed;
+}
+caption {
+  font-family: annabelle, cursive;
+  font-weight: bold;
+  font-size: 2em;
+  padding: 10px; 
+  color: #F3CD26;
+  text-shadow: 1px 1px 0 rgba(0,0,0,.3);
+ }
+caption:before, caption:after {
+  content: "\274B";
+  color: #A9E2CC;
+  margin: 0 10px;
+}
+th {
+  padding: 10px; 
+  border: 1px solid #A9E2CC;
+}
+td {
+  font-size: 0.8em;
+  padding: 5px 7px;
+  border: 1px solid #A9E2CC;
+}
+.first {
+  font-size: 1em;
+  font-weight: bold;
+  text-align: center;
+}
